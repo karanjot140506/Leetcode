@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/karanjot140506/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/karanjot140506/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karanjot140506/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/karanjot140506/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/karanjot140506/Leetcode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/karanjot140506/Leetcode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karanjot140506/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/karanjot140506/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karanjot140506/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/karanjot140506/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/karanjot140506/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |

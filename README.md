@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/karanjot140506/Leetcode/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/karanjot140506/Leetcode/tree/master/0060-permutation-sequence) |
 | [0371-sum-of-two-integers](https://github.com/karanjot140506/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/karanjot140506/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karanjot140506/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/karanjot140506/Leetcode/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/karanjot140506/Leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/karanjot140506/Leetcode/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/karanjot140506/Leetcode/tree/master/0486-predict-the-winner) |
 ## String

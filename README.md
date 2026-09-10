@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/karanjot140506/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karanjot140506/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/karanjot140506/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/karanjot140506/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karanjot140506/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/karanjot140506/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/karanjot140506/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/karanjot140506/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karanjot140506/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/karanjot140506/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
 | ------- |

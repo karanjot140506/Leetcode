@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/karanjot140506/Leetcode/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/karanjot140506/Leetcode/tree/master/0060-permutation-sequence) |
 | [0371-sum-of-two-integers](https://github.com/karanjot140506/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/karanjot140506/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/karanjot140506/Leetcode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/karanjot140506/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/karanjot140506/Leetcode/tree/master/0509-fibonacci-number) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/karanjot140506/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/karanjot140506/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/karanjot140506/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/karanjot140506/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/karanjot140506/Leetcode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/karanjot140506/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/karanjot140506/Leetcode/tree/master/0567-permutation-in-string) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/karanjot140506/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/karanjot140506/Leetcode/tree/master/0415-add-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/karanjot140506/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/karanjot140506/Leetcode/tree/master/3498-reverse-degree-of-a-string) |

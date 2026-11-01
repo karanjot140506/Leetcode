@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/karanjot140506/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/karanjot140506/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karanjot140506/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/karanjot140506/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/karanjot140506/Leetcode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/karanjot140506/Leetcode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karanjot140506/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/karanjot140506/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/karanjot140506/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/karanjot140506/Leetcode/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/karanjot140506/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/karanjot140506/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/karanjot140506/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karanjot140506/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |

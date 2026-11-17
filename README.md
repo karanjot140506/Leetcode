@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/karanjot140506/Leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/karanjot140506/Leetcode/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/karanjot140506/Leetcode/tree/master/0060-permutation-sequence) |
 | [0371-sum-of-two-integers](https://github.com/karanjot140506/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/karanjot140506/Leetcode/tree/master/0412-fizz-buzz) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karanjot140506/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/karanjot140506/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/karanjot140506/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/karanjot140506/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/karanjot140506/Leetcode/tree/master/0022-generate-parentheses) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/karanjot140506/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karanjot140506/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/karanjot140506/Leetcode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/karanjot140506/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0387-first-unique-character-in-a-string](https://github.com/karanjot140506/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/karanjot140506/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
